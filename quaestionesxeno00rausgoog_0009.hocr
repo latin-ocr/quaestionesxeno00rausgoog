@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesxeno00rausgoog_0009.png"; bbox 0 0 2928 4580; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 1515 1111 1615">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 1515 1111 1615">
+     <span class='ocr_line' id='line_1_1' title="bbox 304 1515 1111 1615; baseline -0.002 -20"><span class='ocrx_word' id='word_1_1' title='bbox 304 1527 434 1610; x_wconf 77' lang='grc' dir='ltr'>Ὄλβιος</span> <span class='ocrx_word' id='word_1_2' title='bbox 455 1515 480 1615; x_wconf 77' lang='grc' dir='ltr'>ᾧ</span> <span class='ocrx_word' id='word_1_3' title='bbox 499 1527 609 1604; x_wconf 83' lang='grc' dir='ltr'>παῖδές</span> <span class='ocrx_word' id='word_1_4' title='bbox 630 1551 665 1593; x_wconf 84' lang='grc' dir='ltr'>τε</span> <span class='ocrx_word' id='word_1_5' title='bbox 687 1526 769 1614; x_wconf 80' lang='grc' dir='ltr'>φίλοι</span> <span class='ocrx_word' id='word_1_6' title='bbox 789 1524 845 1593; x_wconf 84' lang='grc' dir='ltr'>καὶ</span> <span class='ocrx_word' id='word_1_7' title='bbox 868 1524 1004 1612; x_wconf 76' lang='grc' dir='ltr'>μώνυχες</span> <span class='ocrx_word' id='word_1_8' title='bbox 1025 1525 1111 1593; x_wconf 80' lang='grc' dir='ltr'>ἵπποι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 401 1694 1097 1786">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 401 1694 1097 1786">
+     <span class='ocr_line' id='line_1_2' title="bbox 401 1694 1097 1786; baseline -0.003 -19"><span class='ocrx_word' id='word_1_9' title='bbox 401 1698 555 1786; x_wconf 58' lang='grc' dir='ltr'>ἳπηρευταί</span> <span class='ocrx_word' id='word_1_10' title='bbox 576 1723 612 1765; x_wconf 80' lang='grc' dir='ltr'>τε</span> <span class='ocrx_word' id='word_1_11' title='bbox 632 1696 722 1776; x_wconf 77' lang='grc' dir='ltr'><strong>κύνες</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 742 1695 798 1763; x_wconf 81' lang='grc' dir='ltr'>καὶ</span> <span class='ocrx_word' id='word_1_13' title='bbox 820 1695 897 1776; x_wconf 82' lang='grc' dir='ltr'>ξένοι</span> <span class='ocrx_word' id='word_1_14' title='bbox 920 1694 1097 1765; x_wconf 82' lang='grc' dir='ltr'>ἀλλοδαποὶ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 741 1987 988 2056">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 741 1987 988 2056">
+     <span class='ocr_line' id='line_1_3' title="bbox 741 1987 988 2056; baseline 0.012 -3"><span class='ocrx_word' id='word_1_15' title='bbox 741 1987 988 2056; x_wconf 72' lang='lat' dir='ltr'><strong><em>THEOONIS.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1468 4580">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1468 4580">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1468 4580; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1468 4580; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
